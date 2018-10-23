@@ -13,4 +13,5 @@ click the arrow then select the config you want to use and click load
 
 **TODO**
 
-Atari 7800 and Xbox 360
+~~Atari 7800~~
+Xbox 360

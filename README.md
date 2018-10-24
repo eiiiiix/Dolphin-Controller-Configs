@@ -1,3 +1,5 @@
+**THESE ARE MADE FOR LINUX, THEY WILL NOT WORK ON WINDOWS**
+
 **How to use**
 
 Place these in ~/.config/dolphin-emu/Profiles/GCPad/

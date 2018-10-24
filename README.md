@@ -16,4 +16,8 @@ click the arrow then select the config you want to use and click load
 **TODO**
 
 ~~Atari 7800~~
-Xbox 360
+~~Xbox 360~~
+Xbox One
+PS1
+SUPER JOYSTICK TV GAME & POWER PLAYER
+CYNOCULARS Bluetooth Remote

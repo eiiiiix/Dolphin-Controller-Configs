@@ -15,9 +15,14 @@ click the arrow then select the config you want to use and click load
 
 **TODO**
 
-~~Atari 7800~~
+~~Atari 7800 Flashback~~
 ~~Xbox 360~~
 Xbox One
 PS1
 SUPER JOYSTICK TV GAME & POWER PLAYER
 CYNOCULARS Bluetooth Remote
+AxisPad
+GameCube
+WiiMote with Nunchuck
+Atari 2600 Flashback
+Atari Box VCS clasic and modern
